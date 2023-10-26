@@ -32,9 +32,7 @@ public class GitTest {
 		url = prop.getProperty("url");
 		username=prop.getProperty("username");
 		password=prop.getProperty("password");
-		System.out.println(url);
-		System.out.println(username);
-		System.out.println(password);
+		
 	}
 	
 	@BeforeMethod
