@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T00:33:41 CDT" name="Default suite" finished-at="2023-10-26T00:34:12 CDT" duration-ms="30858">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T00:33:41 CDT" name="Default test" finished-at="2023-10-26T00:34:12 CDT" duration-ms="30858">
+      <class name="mvnProjerct.GitTest">
+        <test-method is-config="true" signature="getConfig()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:33:41 CDT" name="getConfig" finished-at="2023-10-26T00:33:41 CDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:33:41 CDT" name="init" finished-at="2023-10-26T00:33:48 CDT" duration-ms="6795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="loginTest()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:33:48 CDT" name="loginTest" finished-at="2023-10-26T00:33:59 CDT" duration-ms="11227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:33:59 CDT" name="tearDown" finished-at="2023-10-26T00:33:59 CDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:33:59 CDT" name="init" finished-at="2023-10-26T00:34:05 CDT" duration-ms="5996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="negLoginTest()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:34:05 CDT" name="negLoginTest" finished-at="2023-10-26T00:34:11 CDT" duration-ms="6428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:mvnProjerct.GitTest@3f6b0be5]" started-at="2023-10-26T00:34:11 CDT" name="tearDown" finished-at="2023-10-26T00:34:12 CDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mvnProjerct.GitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
