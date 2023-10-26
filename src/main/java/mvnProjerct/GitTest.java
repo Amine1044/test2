@@ -59,6 +59,7 @@ public class GitTest {
 		driver.findElement(USERNAME_FIELD).sendKeys(username);
 		driver.findElement(PASSWORD_FIELD).sendKeys("abc1234");
 		driver.findElement(LOGIN_BUTTON_FIELD).click();
+		System.out.println(url);
 		
 		
 	}
